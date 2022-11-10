@@ -10,8 +10,7 @@ As an avid Android user myself, I take privacy very seriously.
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
 All data created by you (the user), is stored on your device only and can be simply erased by clearing the app's data or uninstalling it.
-The list of data being saved on your device is:
-	- Game progress.
+The only data that is being save by the app is your game progress.
 
 No data is being shared with third parties.
 	
