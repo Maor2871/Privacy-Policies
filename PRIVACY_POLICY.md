@@ -31,6 +31,8 @@ The app does not display adds.
 
 
 Yours sincerely,
+
 MRStudios.  
 Israel.  
+
 mrsgamesofficial@gmail.com
